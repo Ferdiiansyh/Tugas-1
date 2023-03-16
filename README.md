@@ -7,7 +7,7 @@
     			Nama	: Ferdiansyah Cahyadi
     			Nim 	: 17200356
     			Matkul	: WEBPRO II
-    			Jurusan	: Teknologi Informasi
+    			Jurusan	: Teknologi Inform
 
 ## 10 Syntax Git Terpopuler
 
