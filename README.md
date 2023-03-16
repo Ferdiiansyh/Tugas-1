@@ -9,7 +9,7 @@ test dari laptop
 ## Biodata
 
     			Nama	: Irfan Ardiansyah
-
+                Nim     : 17200353
     			Matkul	: WEBPRO II
     			Jurusan	: Teknologi Informasi
 
