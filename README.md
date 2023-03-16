@@ -1,9 +1,5 @@
 # Latihan-Git
 
-Tugas 1
-
-test dari laptop
-
 # TUGAS 1 Matakuliah WEBPRO II
 
 ## Biodata
